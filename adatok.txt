@@ -1,0 +1,44 @@
+18,Kalkulus BMETE90AX55, 2021.10.18, 12:00, E407, B7 - Horváth Sándor
+19,Kalkulus BMETE90AX55, 2021.10.20, 12:00, E407, B7 - Horváth Sándor
+20,Kalkulus BMETE90AX55, 2021.10.13, 12:00, E407, B7 - Horváth Sándor
+22,Bevezető matematika B BMETE90AX54, 2021.10.21, 10:00, IB027, B0 - Nagy Ilona
+23,Bevezető matematika B BMETE90AX54, 2021.10.28, 10:00, IB027, B0 - Nagy Ilona
+25,A programozás alapjai BMEVIEEBA01, 2021.10.25, 14:00, R4L, R4N
+26,A programozás alapjai BMEVIEEBA01, 2021.10.13, 17:00, R4L, R4N
+27,A programozás alapjai BMEVIEEBA01, 2021.10.20, 17:00, R4L, R4N
+28,A programozás alapjai BMEVIEEBA01, 2021.10.27, 17:00, R4L, R4N
+29,Bevezető matematika B BMETE90AX54,2021.10.11,12:00,E407,B07 - Horváth Sándor
+30,Bevezető matematika B BMETE90AX54,2021.10.25,12:00,E407,B07 - Horváth Sándor
+31,Kalkulus BMETE90AX55,2021.10.12,12:00,IB027,B0 - Dr. Nagy Noémi
+32,Kalkulus ,2021.11.19,12:00,IB027,B0 - Dr. Nagy Sándor
+33,A programozás alapjai BMEVIEEBA01,2021.11.14,17:00,IB027,E - Dr. Ress Sándor László
+34,Kalkulus BMETE90AX55,2021.10.19,12:00,IB027,B0 - Dr. Nagy Noémi
+35,A programozás alapjai BMEVIEEBA01,2021.10.15,17:00,IB027,E - Dr. Ress Sándor László
+36,A programozás alapjai BMEVIEEBA01,2021.10.28,17:00,IB027,IB027
+37,A programozás alapjai BMEVIEEBA01,2021.10.25,17:00,IB027,IB027
+38,Tanköri foglalkozás 1. BMEVIDHKONI,2021.10.27,10:00,E306ab,E306ab
+39,Tanköri foglalkozás 1. BMEVIDHKONI,2021.11.27,10:00,E306ab,E306ab
+40,Tanköri foglalkozás 1. BMEVIDHKONI,2021.10.13,10:00,E306ab,BPI2 - Dr. Kiss Péter Vitéz András
+41,Bevezető matematika B BMETE90AX54,2022.10.11,12:00,E407,B07 - Horváth Sándor
+42,Mindennapi informatikai alkalmazások BMEVIAUBA01,2021.10.28,14:00,IB027,EA - Dr. Kővári Bence András
+43,Hardver alapok BMEVIIIBA01,2021.10.12,17:00,IB025,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+44,Hardver alapok BMEVIIIBA01,2021.10.22,14:00,QBP,L07 - Dr. Kovács Kálmán Dr. Pilászy György
+45,Tanköri foglalkozás 1. BMEVIDHKONI,2021.10.27,10:00,E306ab,E306ab
+46,Mindennapi informatikai alkalmazások BMEVIAUBA01,2021.10.31,14:00,IB027,EA - Dr. Kővári Bence András
+12,Hardver alapok BMEVIIIBA01,2021.10.11,17:00,IB025,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+47,Hardver alapok BMEVIIIBA01,2021.11.11,17:00,IB025,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+14,Hardver alapok BMEVIIIBA01,2021.10.21,17:00,IB025,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+48,Hardver alapok BMEVIIIBA01,2021.12.14,12:00,IB027,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+49,Szülinap,2022.10.09,10:00,Itthon,-
+50,Anya,2022.08.02,-,-,-
+51,Hardver alapok BMEVIIIBA01,2021.10.21,17:00,25,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+52,Hardver alapok BMEVIIIBA01,2021.10.20,10:00,IB027,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+16,Hardver alapok BMEVIIIBA01,2021.10.02,12:00,IB027,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+13,Mindennapi informatikai alkalmazások BMEVIAUBA01,2021.10.30,14:00,IB027,EA - Dr. Kővári Bence András
+53,Kalkulus BMETE90AX55,2022.10.18,12:00,E407,B7 - Horváth Sándor
+17,Hardver alapok BMEVIIIBA01,2021.10.28,11:00,IB027,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+54,Hardver alapok BMEVIIIBA01,2021.10.11,17:01,IB025,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+21,Kalkulus BMETE90AX55,2021.10.27,12:00,E408,B7 - Horváth Sándor
+55,Hardver alapok BMEVIIIBA01,2021.10.12,17:00,IB025,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+56,Hardver alapok BMEVIIIBA01,2021.10.11,17:00,IB025,E - Dr. Horváth Tamás Imre Dr. Pilászy György
+24,A programozás alapjai BMEVIEEBA01,2021.10.19,14:00,R4L,R4N
